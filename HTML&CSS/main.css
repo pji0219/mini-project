@@ -1,0 +1,48 @@
+.header {
+    border-bottom: 1px solid gray;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+a {
+    
+    font-size: 20px;
+    float: left;
+}
+
+.link1 {
+    margin-right: 5px;
+}
+
+.link2 {
+    margin-left: 5px;
+}
+
+.title {
+    text-align: center;
+}
+
+.main-text-title{
+    margin-bottom: 10px;
+}
+
+.main-text-sub-itile2 {
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+}
+
+br {
+    font-size: 16px;
+}
+
+.newkine {
+    margin-top: 5px;
+}
+
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+}
