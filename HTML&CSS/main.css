@@ -26,8 +26,17 @@ a {
     margin-bottom: 10px;
 }
 
-.main-text-sub-itile2 {
+.main-text-sub-title {
+    color: blue;
+}
+
+.main-text-sub-title2 {
     margin-bottom: 10px;
+}
+
+body{
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 p {
@@ -40,9 +49,4 @@ br {
 
 .newkine {
     margin-top: 5px;
-}
-
-body{
-    padding-left: 50px;
-    padding-right: 50px;
 }
